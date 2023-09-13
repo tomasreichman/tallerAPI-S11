@@ -1,0 +1,17 @@
+#container{
+    padding-left: 550px;
+    
+}
+
+#lista{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 25px;
+    
+}
+
+#movies{
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
